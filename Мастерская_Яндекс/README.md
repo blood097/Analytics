@@ -7,6 +7,9 @@
 ### Итог: 
 Cоздан аналитический дашборд в DataLens по требованиям.
 
+![ыфыф](https://user-images.githubusercontent.com/107462781/221604816-384d969d-dafa-4aed-9648-380551300a96.png)
+
+
 ***
 <br>Статус проекта: Завершен
 <br>Ключевые слова: дашборд, datalens, bi analyst, bi-аналитик, аналитик данных, data analyst
