@@ -8,6 +8,7 @@
 Cоздан аналитический дашборд в DataLens по требованиям.
 
 ![ыфыф](https://user-images.githubusercontent.com/107462781/221604816-384d969d-dafa-4aed-9648-380551300a96.png)
+![ыфыф2](https://user-images.githubusercontent.com/107462781/221606795-c0798642-9985-498f-9165-07e8273d6d3e.png)
 
 
 ***
